@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name AdafruitPowerBoost)(type Legacy)(uri ${KIPRJMOD}/AdafruitPowerBoost.lib)(options "")(descr ""))
+)

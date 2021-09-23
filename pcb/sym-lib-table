@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name AdafruitPowerBoost)(type Legacy)(uri ${KIPRJMOD}/AdafruitPowerBoost.lib)(options "")(descr ""))
+  (lib (name Adafruit-PowerBoost-500-Basic-Replica-rescue)(type Legacy)(uri "${KIPRJMOD}/Adafruit PowerBoost 500 Basic Replica-rescue.lib")(options "")(descr ""))
 )

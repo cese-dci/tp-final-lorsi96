@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name usb-a-receptacle-tht-1)(type KiCad)(uri /home/lorsi/Documents/CESE/DCI/tp-final-lorsi96/lib/usb-a-receptacle-tht-1.pretty)(options "")(descr ""))
+)

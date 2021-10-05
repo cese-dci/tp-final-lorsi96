@@ -426,27 +426,12 @@ Wire Notes Line
 	4200 2450 4200 1550
 Wire Notes Line
 	4200 1550 3350 1550
-$Comp
-L Mechanical:Fiducial FID2
-U 1 1 616E0E3E
-P 5350 2200
-F 0 "FID2" H 5435 2246 50  0000 L CNN
-F 1 "U1 FID" H 5435 2155 50  0000 L CNN
-F 2 "Fiducial:Fiducial_0.5mm_Mask1mm" H 5350 2200 50  0001 C CNN
-F 3 "~" H 5350 2200 50  0001 C CNN
-	1    5350 2200
-	1    0    0    -1  
-$EndComp
-Wire Notes Line
-	4800 2450 4800 1550
 Wire Notes Line
 	4800 1550 6100 1550
 Wire Notes Line
-	6100 1550 6100 2450
-Wire Notes Line
-	6100 2450 4800 2450
+	6100 2200 4800 2200
 Text Notes 4900 1700 0    50   ~ 0
-Fiducials
+Fiduciales
 $Comp
 L Device:Q_PNP_BEC_BRT Q1
 U 1 1 613A70FE
@@ -981,4 +966,8 @@ F 3 "" H 9950 4600 50  0001 C CNN
 $EndComp
 Wire Notes Line
 	8400 4000 11000 4000
+Wire Notes Line
+	6100 2200 6100 1550
+Wire Notes Line
+	4800 1550 4800 2200
 $EndSCHEMATC

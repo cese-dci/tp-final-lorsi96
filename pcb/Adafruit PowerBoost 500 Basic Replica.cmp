@@ -1,0 +1,251 @@
+Cmp-Mod V01 Created by PcbNew   date = vie 08 oct 2021 20:12:04
+
+BeginCmp
+TimeStamp = 615A3E07
+Path = /613C3CFF
+Reference = J2;
+ValeurCmp = PWR OUT;
+IdModule  = dci_lorsi:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6159C646
+Path = /613A2564
+Reference = R11;
+ValeurCmp = 13.5K;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 61593841
+Path = /613A2005
+Reference = R10;
+ValeurCmp = 25K;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146A306
+Path = /613A1B59
+Reference = R9;
+ValeurCmp = 13.5K;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 614BF129
+Path = /613A1712
+Reference = R8;
+ValeurCmp = 25K;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146A2E4
+Path = /613A10F0
+Reference = R7;
+ValeurCmp = 1K;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 614C0F98
+Path = /613A2A3E
+Reference = R6;
+ValeurCmp = 1K;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6159BF3B
+Path = /613A0CAB
+Reference = R5;
+ValeurCmp = 200K;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 61593D30
+Path = /613A07A5
+Reference = R4;
+ValeurCmp = 1.85M;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6159BD88
+Path = /613A0273
+Reference = R3;
+ValeurCmp = 340K;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146A28F
+Path = /6139FCF0
+Reference = R2;
+ValeurCmp = 1.85M;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6159BDB8
+Path = /613A0637
+Reference = R1;
+ValeurCmp = 340K;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 615A586C
+Path = /613C0BC8
+Reference = L1;
+ValeurCmp = VLC5045-6.8uH;
+IdModule  = Inductor_SMD:L_Taiyo-Yuden_NR-40xx_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 614C0F64
+Path = /613A4E15
+Reference = D2;
+ValeurCmp = LBO RED;
+IdModule  = LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146A1B9
+Path = /613BFD8E
+Reference = D1;
+ValeurCmp = PWR GREEN;
+IdModule  = LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146A189
+Path = /613A4683
+Reference = C4;
+ValeurCmp = 100uF;
+IdModule  = Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6159450C
+Path = /613A3BDE
+Reference = C3;
+ValeurCmp = 2.2uF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146A167
+Path = /613A3666
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6159C264
+Path = /613A324C
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 61592420
+Path = /61533C6B
+Reference = J3;
+ValeurCmp = Batería;
+IdModule  = Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 614BE1EA
+Path = /614C579A
+Reference = CN1;
+ValeurCmp = USBA;
+IdModule  = Connector_USB:USB_A_Molex_67643_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146A1D4
+Path = /616A2BD0
+Reference = FID1;
+ValeurCmp = Fiducial;
+IdModule  = Fiducial:Fiducial_1mm_Mask2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146A1E4
+Path = /616A4E8E
+Reference = FID3;
+ValeurCmp = Fiducial;
+IdModule  = Fiducial:Fiducial_1mm_Mask2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61569163
+Path = /616A4433
+Reference = FID4;
+ValeurCmp = Fiducial;
+IdModule  = Fiducial:Fiducial_1mm_Mask2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146A1F4
+Path = /615EAAD9
+Reference = H1;
+ValeurCmp = Mounting Hole;
+IdModule  = MountingHole:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146A1FC
+Path = /615EFBC8
+Reference = H2;
+ValeurCmp = Mounting Hole;
+IdModule  = MountingHole:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146A204
+Path = /615EF6C2
+Reference = H3;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146A20C
+Path = /615F028A
+Reference = H4;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146A22A
+Path = /613B438E
+Reference = J1;
+ValeurCmp = HEADER;
+IdModule  = Connector_PinSocket_1.00mm:PinSocket_1x06_P1.00mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 614C0F2A
+Path = /613A70FE
+Reference = Q1;
+ValeurCmp = MMUN2133LT1G;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146A352
+Path = /6152B4CF
+Reference = U1;
+ValeurCmp = TPS61090RSAR;
+IdModule  = Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm;
+EndCmp
+
+EndListe
